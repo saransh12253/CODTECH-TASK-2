@@ -8,7 +8,7 @@
 ## OVERVIEW OF THE PROJECT
 
 ### Project: "TEMPERATURE CONVERTER" 
-![Screenshot (233)](https://github.com/saransh12253/CODTECH-TASK-2/assets/174232673/c68adf54-4c94-47ed-a76d-450912359ce9)
+
 
 
 
